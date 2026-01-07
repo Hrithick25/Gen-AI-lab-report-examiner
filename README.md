@@ -83,5 +83,3 @@ lab_report_examiner/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-## 📁 Project Structure
-
